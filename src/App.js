@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <div>
+    <div className="text-gray-500 underline">
       Hola Mundo
     </div>
   );
